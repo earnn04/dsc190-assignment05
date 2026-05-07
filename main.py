@@ -1,5 +1,6 @@
 def main():
-    print("The build works again!")
+    x = 1 + 2
+    print(x)
 
 
 if __name__ == "__main__":

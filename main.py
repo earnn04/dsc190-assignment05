@@ -1,5 +1,12 @@
+import os
+
 def main():
-    print("Hello from dsc190-assignment05!")
+    message = "Breaking the build!"
+    unused_var = 42
+
+    is_student = True
+    if is_student == True:
+        print(message)
 
 
 if __name__ == "__main__":

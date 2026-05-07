@@ -1,5 +1,5 @@
 def main():
-    print("Hello from dsc190-assignment05!")
+    print("The build works again!")
 
 
 if __name__ == "__main__":

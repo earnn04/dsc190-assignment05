@@ -1,12 +1,7 @@
 import os
 
 def main():
-    message = "Breaking the build!"
-    unused_var = 42
-
-    is_student = True
-    if is_student == True:
-        print(message)
+    print("The build works again!")
 
 
 if __name__ == "__main__":

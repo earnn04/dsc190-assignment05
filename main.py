@@ -1,5 +1,3 @@
-import os
-
 def main():
     print("The build works again!")
 
